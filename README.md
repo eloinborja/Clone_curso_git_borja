@@ -1,1 +1,1 @@
-# Clone_curso_git_borja
+Clonación del archivo GIT desde el remota al local
